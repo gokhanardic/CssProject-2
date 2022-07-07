@@ -1,0 +1,54 @@
+.main {
+    width: 90%;
+    background-color: white;
+    margin: 0 auto;
+}
+.google {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+.search {
+    background-color: #fcfcfc;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+}
+.bol1 {
+    width: 37%;
+    height: 68px;
+    float: left;
+    background-color: #76d8ce;
+    text-align: center;
+    margin: 0.2% 0.2% 0.2% 0;
+    padding-top: 10px;
+    font-size: 15px;
+}
+.bol2 {
+    float: left;
+    height: 73px;
+    width: 19%;
+    background-color: #76d6cb;
+    text-align: center;
+    margin: 0.2% 0.2% 0.2% 0;
+    font-size: 13px;
+    padding-top: 5px;
+}
+.bol3{
+    float: left;
+    height: 78px;
+    width: 43.6%;
+    background-color: #68bdb3;
+    text-align: center;
+    margin: 0.2% 0;
+    font-size: 14px;
+}
+.foot {
+    float: left;
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    margin-top: 5px;
+    padding-top: 12px;
+    font-size: 12px;
+}
